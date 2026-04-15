@@ -1,0 +1,11 @@
+[PROJECT | WORKER_B | STAGE 1 | RESULT]
+
+status: PASS
+
+artifacts:
+- /job_site/test_run_006/worker_b_probe_v6.txt
+- /job_site/test_run_006/stage_activity_log.txt
+
+summary:
+- Reissued Worker B stage 1 task completed.
+- Strict-format worker reply provided for checkpoint use.
